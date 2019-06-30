@@ -64,7 +64,7 @@ Web3j web3 = Web3j.build(new HttpService("https://kovan.infura.io/v3/4efe1227d05
 
 >Note:  
 > - 현재 버전(4.2.0)에서는 Web3jFactory가 삭제되었다. 몇 부터인지는 모르겠으나, 구버전이면 Web3jFactory.build(new ..)를 이용해야한다.  
-> - web3j-android error: static interface method calls are not supported at language level x.x 에러가 뜨면 [Android Studio 업데이트](https://developer.android.com/studio/write/java8-support)를 하자  
+> - static interface method calls are not supported at language level x.x 에러가 뜨면 [Android Studio 업데이트](https://developer.android.com/studio/write/java8-support)를 하자  
 
 
 ### 3.1 지갑 생성
