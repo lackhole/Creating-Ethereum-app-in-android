@@ -8,7 +8,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android Studio : <https://developer.android.com/studio>   
    ```
       스마트 컨트랙트를 이용한다면,  
-      solc : <https://github.com/ethereum/solidity/releases>  
+      solc : https://github.com/ethereum/solidity/releases
    ```
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.3 클라이언트
 
