@@ -1,4 +1,5 @@
-# 안드로이드에서 이더리움 dapp 만들기
+# Creating Ethereum based application in Android
+English readme above
 
 ## &nbsp;&nbsp;1. 요구사항
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.1 운영체제
